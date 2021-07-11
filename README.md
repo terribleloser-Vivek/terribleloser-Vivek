@@ -8,6 +8,6 @@
 Welcome to my Github profile!
 I am an Electronics Undergrad Students and I am currently pursuing my Electronics and Communication Engineering,Bachelor Of Technology,MIT Muzaffarpur!
 
-Always raedy to play Footbal, wanna spend time - get one !!
+Always ready to play Footbal, wanna spend time - get one !!
 
 <img align="right" alt="img" src="https://github.com/terribleloser-Vivek/profile_readme/blob/main/profile.PNG" width="50%" height="auto" />
