@@ -10,7 +10,7 @@
 
 Welcome to my Github profile!
 I'm an **Electronics Undergrad** 🤖 Students pursuing my degree from 🏫 **MIT Muzaffarpur**!
-Practical minded,ready to explore and learn something new.Work hard to reach high peaks 📈 of success in Life.
+Practical minded,ready to explore and learn something new.Working hard to reach high peaks 📈 of success in Life.
 
 - 3 ⭐ on Hackerrank for **SQL** and **C programming**
 - Passionate about *IMAGE PROCESSING* and *PROGRAMMING*
