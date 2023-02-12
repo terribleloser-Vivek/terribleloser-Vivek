@@ -1,6 +1,6 @@
-<img align="right" alt="img" src="https://github.com/terribleloser-Vivek/profile_readme/blob/main/profile.PNG" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="auto" height="auto" />
 
-### Hello Geeek 👋 
+### System.out.println("Hello World"); 👋 
 # **This is VIVEK KUMAR SINGH!**
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/terribleloser-Vivek)
