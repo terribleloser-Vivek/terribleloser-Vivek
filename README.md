@@ -22,8 +22,25 @@ Practical minded,ready to explore and learn something new. Working hard to reach
 - Simulation Softwares : **Altium, Diptrace, MultiSim**
 - **Filling Empty pages of Life**
 
+<br>
+
+### *select skills from RESUME where user_name = "terribleloser-Vivek" and Skill in ('Database','Programming languages','Libraries','Editors Used');* 
+
+<h3> Database : </h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=Oraclel&logoColor=white" />
+</p>
+
+### *printf("Most Used Languages");* 
+<a href="https://github.com/terribleloser-Vivek">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terribleloser-Vivek&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+### *select github_stats from GITHUB where user_name = "terribleloser-Vivek";* 
+<a href="https://github.com/terribleloser-Vivek">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=terribleloser-Vivek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Github Stats" />
+</a>
+
 > Ready to play Football 24/7, wanna spend some good time - get one ⚽ !!
-
-
-
 
