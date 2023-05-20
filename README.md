@@ -12,7 +12,7 @@ I'm an **Electronics Undergrad** 🤖 Students pursuing my degree from 🏫 **MI
 Practical minded,ready to explore and learn something new. Working hard to reach high peaks 📈 of success in Life.
 
 - 3 ⭐ on Hackerrank for **SQL** and **C programming**
-- Passionate about *IMAGE PROCESSING* and *PROGRAMMING*
+- Passionate about *IMAGE PROCESSING*,*PROGRAMMING*
 - Currently working on *Matlab Image Processing* and *Deep Learning* projects.
 - Learning *Python Programming* and *Machine Learning*
 - Having Little experince of
@@ -24,12 +24,21 @@ Practical minded,ready to explore and learn something new. Working hard to reach
 
 <br>
 
+
 ### *select skills from RESUME where user_name = "terribleloser-Vivek" and Skill in ('Database','Programming languages','Libraries','Editors Used');* 
+# 
 
 <h3> Database : </h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=Oraclel&logoColor=white" />
+</p>
+
+<h3> Editors Used : </h3>
+<p>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black " />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
 ### *printf("Most Used Languages");* 
@@ -41,6 +50,7 @@ Practical minded,ready to explore and learn something new. Working hard to reach
 <a href="https://github.com/terribleloser-Vivek">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=terribleloser-Vivek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Github Stats" />
 </a>
+
 
 > Ready to play Football 24/7, wanna spend some good time - get one ⚽ !!
 
