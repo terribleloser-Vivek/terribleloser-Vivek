@@ -1,7 +1,7 @@
 <img align="right" alt="img" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="auto" height="auto" />
 
 ### System.out.println("Hello World"); 👋 
-# **This is VIVEK KUMAR SINGH!**
+### **This is VIVEK KUMAR SINGH!**
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]( https://github.com/terribleloser-Vivek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/vivek-kumar-singh-7b6184190/)
@@ -14,8 +14,8 @@ Practical minded,ready to explore and learn something new. Working hard to reach
 
 - 5 ⭐ on Hackerrank for **SQL** and **C programming**
 - Passionate about *IMAGE PROCESSING*,*COMPETITIVE CODING* and *FRONTEND DESIGNING*
-- Currently working on *Oracle* as a  **Oracle Database Administrator@** [![HCLTECh](https://img.shields.io/badge/-HCL-blue?style=flat&logo=HCL&logoColor=white)](https://www.hcltech.com/)
-- Learning *ORACLE'19c* and *Front-end Dev*
+- Currently working on *Oracle* as a  **Oracle Database Developer /Admin** [![HCLTECh](https://img.shields.io/badge/-HCL-blue?style=flat&logo=HCL&logoColor=white)](https://www.hcltech.com/)
+- Learning and working on *ORACLE'19c* and *Front-end Dev*
 - Having Little experince of
    - [x] Graphics Designing,Content Writing,MS suite. 
    - [x] Image Processing, Machine Learning 
